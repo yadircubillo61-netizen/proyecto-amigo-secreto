@@ -33,4 +33,4 @@ Mejorar el diseño con colores y animaciones.
 
 👤 Autor
 
-Creado por [Tu Nombre] ✨
+Creado por [Yadir Cubillo] ✨
